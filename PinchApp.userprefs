@@ -1,8 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DL_Test_Scenes\Script\Layout_Changer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Lego\Scripts\SpawnColliders.cs">
     <Files>
+      <File FileName="Assets\DL_Test_Scenes\Script\RaycastDistance.cs" Line="32" Column="1" />
+      <File FileName="Assets\Circular Menu\Scripts\RotateItems.cs" Line="4" Column="28" />
       <File FileName="Assets\DL_Test_Scenes\Script\Layout_Changer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IntroCube.cs" Line="408" Column="31" />
+      <File FileName="Assets\Scripts\IntroManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Circular Menu\Scripts\RotateItemsRoom.cs" Line="45" Column="19" />
+      <File FileName="Assets\Lego\Scripts\SpawnColliders.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

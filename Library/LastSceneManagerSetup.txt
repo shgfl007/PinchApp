@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/DL_Test_Scenes/Furniture_Placement_reset2-1143.unity
+- path: Assets/DL_Test_Scenes/Furniture_Placement_reset2-0431.unity
   isLoaded: 1
   isActive: 1

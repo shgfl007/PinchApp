@@ -92,6 +92,7 @@
      <Compile Include="Assets\Circular Menu\Scripts\DataVizUIManage.cs" />
      <Compile Include="Assets\Circular Menu\Scripts\LayoutButtonAnimation.cs" />
      <Compile Include="Assets\Circular Menu\Scripts\RotateItems.cs" />
+     <Compile Include="Assets\Circular Menu\Scripts\RotateItemsRoom.cs" />
      <Compile Include="Assets\Circular Menu\Scripts\ToggleSkyBox.cs" />
      <Compile Include="Assets\Circular Menu\Scripts\UIManage.cs" />
      <Compile Include="Assets\CloseCarMenu.cs" />
@@ -101,6 +102,7 @@
      <Compile Include="Assets\DL_Test_Scenes\Script\PressLeft.cs" />
      <Compile Include="Assets\DL_Test_Scenes\Script\PressOK.cs" />
      <Compile Include="Assets\DL_Test_Scenes\Script\PressRight.cs" />
+     <Compile Include="Assets\DL_Test_Scenes\Script\RaycastDistance.cs" />
      <Compile Include="Assets\DL_Test_Scenes\Script\RoomReset.cs" />
      <Compile Include="Assets\DL_Test_Scenes\Script\RoomResetButton.cs" />
      <Compile Include="Assets\DL_Test_Scenes\Script\Scaler.cs" />
