@@ -1,0 +1,2 @@
+Landscape right changes are made under scripts/cardboardhead
+Invert bool can be ticked on or off

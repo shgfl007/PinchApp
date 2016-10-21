@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Lego\Scripts\BlockManip.cs">
+    <Files>
+      <File FileName="Assets\Lego\Scripts\BlockManip.cs" Line="9" Column="28" />
+      <File FileName="Assets\Circular Menu\Scripts\UIManage.cs" Line="1" Column="1" />
+      <File FileName="Assets\DL_Test_Scenes\Script\PressLeft.cs" Line="1" Column="1" />
+      <File FileName="Assets\DL_Test_Scenes\Script\Layout_Changer.cs" Line="1" Column="1" />
+      <File FileName="Assets\DL_Test_Scenes\Script\PressRight.cs" Line="1" Column="1" />
+      <File FileName="Assets\DL_Test_Scenes\Script\PressOK.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\OpenLegoMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\SpawnBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Kitchen Sink\Scripts\DragDrop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VRObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\DL_Test_Scenes\Script\RoomResetButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Room Builder Pinch\Scripts\FreeDragLib.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\UIMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\DL_Test_Scenes\Script\RoomReset.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoHomeLego.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\ColorPicker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\Delete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\BlockUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Circular Menu\ButtonAnimations.cs" Line="1" Column="1" />
+      <File FileName="Assets\Circular Menu\Scripts\LayoutButtonAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Circular Menu\Scripts\RotateItems.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\SpawnColliders.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lego\Scripts\UIRotate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

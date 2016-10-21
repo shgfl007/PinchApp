@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TrackerScript.cs">
+    <Files>
+      <File FileName="..\..\..\Downloads\TrackerScript (2).cs" Line="8" Column="18" />
+      <File FileName="Assets\Scripts\TrackerScript.cs" Line="24" Column="37" />
+      <File FileName="Assets\Circular Menu\Scripts\UIManage.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoHomeData.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoHomeCar.cs" Line="1" Column="1" />
+      <File FileName="Assets\CarShowcase\Scripts\CarIntroEnd.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IntroFeatureSwitcher.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Downloads\TrackerScript (1).cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RayCast.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Data Visualizaion\Scripts\ShootRayCast.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Room Builder Pinch\RoomBuilder\ToggleCamButton.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Room Builder Pinch\RoomBuilder\Scripts\SpaceManager.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

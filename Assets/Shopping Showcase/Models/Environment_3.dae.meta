@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: ac806b942c324294d9917a2e35ab19d7
+timeCreated: 1468510771
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: group_0
+    100006: group_1
+    100008: instance_0
+    100010: instance_1
+    100012: instance_10
+    100014: instance_11
+    100016: instance_12
+    100018: instance_13
+    100020: instance_14
+    100022: instance_15
+    100024: instance_2
+    100026: instance_3
+    100028: instance_4
+    100030: instance_5
+    100032: instance_6
+    100034: instance_7
+    100036: instance_8
+    100038: instance_9
+    100040: Lamp
+    100042: SketchUp
+    400000: Camera
+    400002: //RootNode
+    400004: group_0
+    400006: group_1
+    400008: instance_0
+    400010: instance_1
+    400012: instance_10
+    400014: instance_11
+    400016: instance_12
+    400018: instance_13
+    400020: instance_14
+    400022: instance_15
+    400024: instance_2
+    400026: instance_3
+    400028: instance_4
+    400030: instance_5
+    400032: instance_6
+    400034: instance_7
+    400036: instance_8
+    400038: instance_9
+    400040: Lamp
+    400042: SketchUp
+    2300000: group_1
+    2300002: instance_0
+    2300004: instance_1
+    2300006: instance_10
+    2300008: instance_11
+    2300010: instance_12
+    2300012: instance_13
+    2300014: instance_14
+    2300016: instance_15
+    2300018: instance_2
+    2300020: instance_3
+    2300022: instance_4
+    2300024: instance_5
+    2300026: instance_6
+    2300028: instance_7
+    2300030: instance_8
+    2300032: instance_9
+    3300000: group_1
+    3300002: instance_0
+    3300004: instance_1
+    3300006: instance_10
+    3300008: instance_11
+    3300010: instance_12
+    3300012: instance_13
+    3300014: instance_14
+    3300016: instance_15
+    3300018: instance_2
+    3300020: instance_3
+    3300022: instance_4
+    3300024: instance_5
+    3300026: instance_6
+    3300028: instance_7
+    3300030: instance_8
+    3300032: instance_9
+    4300000: group_1
+    4300002: instance_0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

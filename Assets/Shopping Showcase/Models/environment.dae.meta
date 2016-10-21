@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: b7cdc7d537d354542a27a1ce3fe92551
+timeCreated: 1468347711
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Divider
+    100002: Divider 1
+    100004: Divider 10
+    100006: Divider 11
+    100008: Divider 12
+    100010: Divider 13
+    100012: Divider 14
+    100014: Divider 15
+    100016: Divider 2
+    100018: Divider 3
+    100020: Divider 4
+    100022: Divider 5
+    100024: Divider 6
+    100026: Divider 7
+    100028: Divider 8
+    100030: Divider 9
+    100032: //RootNode
+    100034: group_0
+    100036: group_1
+    100038: instance_0
+    100040: instance_1
+    100042: instance_10
+    100044: instance_11
+    100046: instance_12
+    100048: instance_13
+    100050: instance_14
+    100052: instance_15
+    100054: instance_2
+    100056: instance_3
+    100058: instance_4
+    100060: instance_5
+    100062: instance_6
+    100064: instance_7
+    100066: instance_8
+    100068: instance_9
+    400000: Divider
+    400002: Divider 1
+    400004: Divider 10
+    400006: Divider 11
+    400008: Divider 12
+    400010: Divider 13
+    400012: Divider 14
+    400014: Divider 15
+    400016: Divider 2
+    400018: Divider 3
+    400020: Divider 4
+    400022: Divider 5
+    400024: Divider 6
+    400026: Divider 7
+    400028: Divider 8
+    400030: Divider 9
+    400032: //RootNode
+    400034: group_0
+    400036: group_1
+    400038: instance_0
+    400040: instance_1
+    400042: instance_10
+    400044: instance_11
+    400046: instance_12
+    400048: instance_13
+    400050: instance_14
+    400052: instance_15
+    400054: instance_2
+    400056: instance_3
+    400058: instance_4
+    400060: instance_5
+    400062: instance_6
+    400064: instance_7
+    400066: instance_8
+    400068: instance_9
+    2300000: Divider
+    2300002: Divider 1
+    2300004: Divider 10
+    2300006: Divider 11
+    2300008: Divider 12
+    2300010: Divider 13
+    2300012: Divider 14
+    2300014: Divider 15
+    2300016: Divider 2
+    2300018: Divider 3
+    2300020: Divider 4
+    2300022: Divider 5
+    2300024: Divider 6
+    2300026: Divider 7
+    2300028: Divider 8
+    2300030: Divider 9
+    2300032: group_1
+    3300000: Divider
+    3300002: Divider 1
+    3300004: Divider 10
+    3300006: Divider 11
+    3300008: Divider 12
+    3300010: Divider 13
+    3300012: Divider 14
+    3300014: Divider 15
+    3300016: Divider 2
+    3300018: Divider 3
+    3300020: Divider 4
+    3300022: Divider 5
+    3300024: Divider 6
+    3300026: Divider 7
+    3300028: Divider 8
+    3300030: Divider 9
+    3300032: group_1
+    4300000: group_1
+    4300002: Divider
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

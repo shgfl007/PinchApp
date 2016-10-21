@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 5fc471873c3b58d4eb4f5e4d2267421c
+timeCreated: 1468347704
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _3DGeom_1
+    100002: _3DGeom_1 1
+    100004: _3DGeom_1_Defintion
+    100006: _3DGeom_1_Defintion 1
+    100008: _3DGeom_2
+    100010: _3DGeom_2 1
+    100012: _3DGeom_2_Defintion
+    100014: _3DGeom_2_Defintion 1
+    100016: group_0
+    100018: group_1
+    100020: group_10
+    100022: group_11
+    100024: group_12
+    100026: group_13
+    100028: group_14
+    100030: group_15
+    100032: group_16
+    100034: group_17
+    100036: group_18
+    100038: group_19
+    100040: group_2
+    100042: group_20
+    100044: group_21
+    100046: group_22
+    100048: group_23
+    100050: group_24
+    100052: group_25
+    100054: group_26
+    100056: group_27
+    100058: group_3
+    100060: group_3 1
+    100062: group_3 2
+    100064: group_3 3
+    100066: group_3 4
+    100068: group_4
+    100070: group_4 1
+    100072: group_4 2
+    100074: group_4 3
+    100076: group_4 4
+    100078: group_5
+    100080: group_5 1
+    100082: group_5 2
+    100084: group_5 3
+    100086: group_5 4
+    100088: group_6
+    100090: group_6 1
+    100092: group_6 2
+    100094: group_6 3
+    100096: group_6 4
+    100098: group_7
+    100100: group_7 1
+    100102: group_7 2
+    100104: group_7 3
+    100106: group_7 4
+    100108: group_8
+    100110: group_8 1
+    100112: group_8 2
+    100114: group_8 3
+    100116: group_8 4
+    100118: group_9
+    100120: ID1013
+    100122: ID1013 1
+    100124: ID1021
+    100126: ID1021 1
+    100128: ID1029
+    100130: ID1029 1
+    100132: ID1037
+    100134: ID1037 1
+    100136: ID1045
+    100138: ID1045 1
+    100140: ID109
+    100142: ID127
+    100144: ID144
+    100146: ID161
+    100148: ID178
+    100150: ID19
+    100152: ID195
+    100154: ID212
+    100156: ID230
+    100158: ID247
+    100160: ID264
+    100162: ID281
+    100164: ID298
+    100166: ID315
+    100168: ID333
+    100170: ID350
+    100172: ID367
+    100174: ID384
+    100176: ID401
+    100178: ID41
+    100180: ID418
+    100182: ID436
+    100184: ID453
+    100186: ID470
+    100188: ID487
+    100190: ID504
+    100192: ID521
+    100194: ID58
+    100196: ID684
+    100198: ID738
+    100200: ID744
+    100202: ID75
+    100204: ID750
+    100206: ID756
+    100208: ID777
+    100210: ID785
+    100212: ID793
+    100214: ID801
+    100216: ID809
+    100218: ID817
+    100220: ID825
+    100222: ID838
+    100224: ID846
+    100226: ID854
+    100228: ID862
+    100230: ID881
+    100232: ID887
+    100234: ID893
+    100236: ID899
+    100238: ID915
+    100240: ID92
+    100242: ID923
+    100244: ID931
+    100246: ID939
+    100248: ID947
+    100250: ID955
+    100252: ID963
+    100254: ID971
+    100256: ID979
+    100258: ID987
+    100260: ID995
+    100262: image_0
+    100264: image_1
+    100266: instance_0
+    100268: instance_1
+    100270: instance_2
+    100272: instance_3
+    100274: instance_4
+    100276: pinch_logo.dwg
+    100278: pinch_logo.dwg 1
+    100280: SimLab_2015-02-10-07-10-27
+    100282: SimLab_2015-02-10-07-10-27 1
+    100284: SittingMannequin
+    100286: SittingMannequin 1
+    100288: Store1
+    100290: //RootNode
+    400000: _3DGeom_1
+    400002: _3DGeom_1 1
+    400004: _3DGeom_1_Defintion
+    400006: _3DGeom_1_Defintion 1
+    400008: _3DGeom_2
+    400010: _3DGeom_2 1
+    400012: _3DGeom_2_Defintion
+    400014: _3DGeom_2_Defintion 1
+    400016: group_0
+    400018: group_1
+    400020: group_10
+    400022: group_11
+    400024: group_12
+    400026: group_13
+    400028: group_14
+    400030: group_15
+    400032: group_16
+    400034: group_17
+    400036: group_18
+    400038: group_19
+    400040: group_2
+    400042: group_20
+    400044: group_21
+    400046: group_22
+    400048: group_23
+    400050: group_24
+    400052: group_25
+    400054: group_26
+    400056: group_27
+    400058: group_3
+    400060: group_3 1
+    400062: group_3 2
+    400064: group_3 3
+    400066: group_3 4
+    400068: group_4
+    400070: group_4 1
+    400072: group_4 2
+    400074: group_4 3
+    400076: group_4 4
+    400078: group_5
+    400080: group_5 1
+    400082: group_5 2
+    400084: group_5 3
+    400086: group_5 4
+    400088: group_6
+    400090: group_6 1
+    400092: group_6 2
+    400094: group_6 3
+    400096: group_6 4
+    400098: group_7
+    400100: group_7 1
+    400102: group_7 2
+    400104: group_7 3
+    400106: group_7 4
+    400108: group_8
+    400110: group_8 1
+    400112: group_8 2
+    400114: group_8 3
+    400116: group_8 4
+    400118: group_9
+    400120: ID1013
+    400122: ID1013 1
+    400124: ID1021
+    400126: ID1021 1
+    400128: ID1029
+    400130: ID1029 1
+    400132: ID1037
+    400134: ID1037 1
+    400136: ID1045
+    400138: ID1045 1
+    400140: ID109
+    400142: ID127
+    400144: ID144
+    400146: ID161
+    400148: ID178
+    400150: ID19
+    400152: ID195
+    400154: ID212
+    400156: ID230
+    400158: ID247
+    400160: ID264
+    400162: ID281
+    400164: ID298
+    400166: ID315
+    400168: ID333
+    400170: ID350
+    400172: ID367
+    400174: ID384
+    400176: ID401
+    400178: ID41
+    400180: ID418
+    400182: ID436
+    400184: ID453
+    400186: ID470
+    400188: ID487
+    400190: ID504
+    400192: ID521
+    400194: ID58
+    400196: ID684
+    400198: ID738
+    400200: ID744
+    400202: ID75
+    400204: ID750
+    400206: ID756
+    400208: ID777
+    400210: ID785
+    400212: ID793
+    400214: ID801
+    400216: ID809
+    400218: ID817
+    400220: ID825
+    400222: ID838
+    400224: ID846
+    400226: ID854
+    400228: ID862
+    400230: ID881
+    400232: ID887
+    400234: ID893
+    400236: ID899
+    400238: ID915
+    400240: ID92
+    400242: ID923
+    400244: ID931
+    400246: ID939
+    400248: ID947
+    400250: ID955
+    400252: ID963
+    400254: ID971
+    400256: ID979
+    400258: ID987
+    400260: ID995
+    400262: image_0
+    400264: image_1
+    400266: instance_0
+    400268: instance_1
+    400270: instance_2
+    400272: instance_3
+    400274: instance_4
+    400276: pinch_logo.dwg
+    400278: pinch_logo.dwg 1
+    400280: SimLab_2015-02-10-07-10-27
+    400282: SimLab_2015-02-10-07-10-27 1
+    400284: SittingMannequin
+    400286: SittingMannequin 1
+    400288: Store1
+    400290: //RootNode
+    2300000: _3DGeom_1_Defintion
+    2300002: _3DGeom_1_Defintion 1
+    2300004: _3DGeom_2_Defintion
+    2300006: _3DGeom_2_Defintion 1
+    2300008: group_13
+    2300010: group_14
+    2300012: group_15
+    2300014: group_16
+    2300016: group_17
+    2300018: group_18
+    2300020: group_19
+    2300022: group_20
+    2300024: group_21
+    2300026: group_22
+    2300028: group_23
+    2300030: group_24
+    2300032: group_25
+    2300034: group_26
+    2300036: group_27
+    2300038: group_3
+    2300040: group_3 1
+    2300042: group_3 2
+    2300044: group_3 3
+    2300046: group_3 4
+    2300048: group_4
+    2300050: group_4 1
+    2300052: group_4 2
+    2300054: group_4 3
+    2300056: group_4 4
+    2300058: group_5
+    2300060: group_5 1
+    2300062: group_5 2
+    2300064: group_5 3
+    2300066: group_5 4
+    2300068: group_6
+    2300070: group_6 1
+    2300072: group_6 2
+    2300074: group_6 3
+    2300076: group_6 4
+    2300078: group_7
+    2300080: group_7 1
+    2300082: group_7 2
+    2300084: group_7 3
+    2300086: group_7 4
+    2300088: group_8
+    2300090: group_8 1
+    2300092: group_8 2
+    2300094: group_8 3
+    2300096: group_8 4
+    2300098: ID1013
+    2300100: ID1013 1
+    2300102: ID1021
+    2300104: ID1021 1
+    2300106: ID1029
+    2300108: ID1029 1
+    2300110: ID1037
+    2300112: ID1037 1
+    2300114: ID1045
+    2300116: ID1045 1
+    2300118: ID109
+    2300120: ID127
+    2300122: ID144
+    2300124: ID161
+    2300126: ID178
+    2300128: ID19
+    2300130: ID195
+    2300132: ID212
+    2300134: ID230
+    2300136: ID247
+    2300138: ID264
+    2300140: ID281
+    2300142: ID298
+    2300144: ID315
+    2300146: ID333
+    2300148: ID350
+    2300150: ID367
+    2300152: ID384
+    2300154: ID401
+    2300156: ID41
+    2300158: ID418
+    2300160: ID436
+    2300162: ID453
+    2300164: ID470
+    2300166: ID487
+    2300168: ID504
+    2300170: ID521
+    2300172: ID58
+    2300174: ID684
+    2300176: ID738
+    2300178: ID744
+    2300180: ID75
+    2300182: ID750
+    2300184: ID756
+    2300186: ID777
+    2300188: ID785
+    2300190: ID793
+    2300192: ID801
+    2300194: ID809
+    2300196: ID817
+    2300198: ID825
+    2300200: ID838
+    2300202: ID846
+    2300204: ID854
+    2300206: ID862
+    2300208: ID881
+    2300210: ID887
+    2300212: ID893
+    2300214: ID899
+    2300216: ID915
+    2300218: ID92
+    2300220: ID923
+    2300222: ID931
+    2300224: ID939
+    2300226: ID947
+    2300228: ID955
+    2300230: ID963
+    2300232: ID971
+    2300234: ID979
+    2300236: ID987
+    2300238: ID995
+    2300240: image_0
+    2300242: image_1
+    2300244: pinch_logo.dwg
+    2300246: pinch_logo.dwg 1
+    2300248: Store1
+    3300000: _3DGeom_1_Defintion
+    3300002: _3DGeom_1_Defintion 1
+    3300004: _3DGeom_2_Defintion
+    3300006: _3DGeom_2_Defintion 1
+    3300008: group_13
+    3300010: group_14
+    3300012: group_15
+    3300014: group_16
+    3300016: group_17
+    3300018: group_18
+    3300020: group_19
+    3300022: group_20
+    3300024: group_21
+    3300026: group_22
+    3300028: group_23
+    3300030: group_24
+    3300032: group_25
+    3300034: group_26
+    3300036: group_27
+    3300038: group_3
+    3300040: group_3 1
+    3300042: group_3 2
+    3300044: group_3 3
+    3300046: group_3 4
+    3300048: group_4
+    3300050: group_4 1
+    3300052: group_4 2
+    3300054: group_4 3
+    3300056: group_4 4
+    3300058: group_5
+    3300060: group_5 1
+    3300062: group_5 2
+    3300064: group_5 3
+    3300066: group_5 4
+    3300068: group_6
+    3300070: group_6 1
+    3300072: group_6 2
+    3300074: group_6 3
+    3300076: group_6 4
+    3300078: group_7
+    3300080: group_7 1
+    3300082: group_7 2
+    3300084: group_7 3
+    3300086: group_7 4
+    3300088: group_8
+    3300090: group_8 1
+    3300092: group_8 2
+    3300094: group_8 3
+    3300096: group_8 4
+    3300098: ID1013
+    3300100: ID1013 1
+    3300102: ID1021
+    3300104: ID1021 1
+    3300106: ID1029
+    3300108: ID1029 1
+    3300110: ID1037
+    3300112: ID1037 1
+    3300114: ID1045
+    3300116: ID1045 1
+    3300118: ID109
+    3300120: ID127
+    3300122: ID144
+    3300124: ID161
+    3300126: ID178
+    3300128: ID19
+    3300130: ID195
+    3300132: ID212
+    3300134: ID230
+    3300136: ID247
+    3300138: ID264
+    3300140: ID281
+    3300142: ID298
+    3300144: ID315
+    3300146: ID333
+    3300148: ID350
+    3300150: ID367
+    3300152: ID384
+    3300154: ID401
+    3300156: ID41
+    3300158: ID418
+    3300160: ID436
+    3300162: ID453
+    3300164: ID470
+    3300166: ID487
+    3300168: ID504
+    3300170: ID521
+    3300172: ID58
+    3300174: ID684
+    3300176: ID738
+    3300178: ID744
+    3300180: ID75
+    3300182: ID750
+    3300184: ID756
+    3300186: ID777
+    3300188: ID785
+    3300190: ID793
+    3300192: ID801
+    3300194: ID809
+    3300196: ID817
+    3300198: ID825
+    3300200: ID838
+    3300202: ID846
+    3300204: ID854
+    3300206: ID862
+    3300208: ID881
+    3300210: ID887
+    3300212: ID893
+    3300214: ID899
+    3300216: ID915
+    3300218: ID92
+    3300220: ID923
+    3300222: ID931
+    3300224: ID939
+    3300226: ID947
+    3300228: ID955
+    3300230: ID963
+    3300232: ID971
+    3300234: ID979
+    3300236: ID987
+    3300238: ID995
+    3300240: image_0
+    3300242: image_1
+    3300244: pinch_logo.dwg
+    3300246: pinch_logo.dwg 1
+    3300248: Store1
+    4300000: group_3
+    4300002: ID19
+    4300004: group_4
+    4300006: ID41
+    4300008: group_5
+    4300010: ID58
+    4300012: group_6
+    4300014: ID75
+    4300016: group_7
+    4300018: ID92
+    4300020: group_8
+    4300022: ID109
+    4300024: group_3
+    4300026: ID127
+    4300028: group_4
+    4300030: ID144
+    4300032: group_5
+    4300034: ID161
+    4300036: group_6
+    4300038: ID178
+    4300040: group_7
+    4300042: ID195
+    4300044: group_8
+    4300046: ID212
+    4300048: group_3
+    4300050: ID230
+    4300052: group_4
+    4300054: ID247
+    4300056: group_5
+    4300058: ID264
+    4300060: group_6
+    4300062: ID281
+    4300064: group_7
+    4300066: ID298
+    4300068: group_8
+    4300070: ID315
+    4300072: group_3
+    4300074: ID333
+    4300076: group_4
+    4300078: ID350
+    4300080: group_5
+    4300082: ID367
+    4300084: group_6
+    4300086: ID384
+    4300088: group_7
+    4300090: ID401
+    4300092: group_8
+    4300094: ID418
+    4300096: group_3
+    4300098: ID436
+    4300100: group_4
+    4300102: ID453
+    4300104: group_5
+    4300106: ID470
+    4300108: group_6
+    4300110: ID487
+    4300112: group_7
+    4300114: ID504
+    4300116: group_8
+    4300118: ID521
+    4300120: group_13
+    4300122: Store1
+    4300124: ID684
+    4300126: group_14
+    4300128: group_15
+    4300130: group_16
+    4300132: group_17
+    4300134: group_18
+    4300136: group_19
+    4300138: group_20
+    4300140: group_21
+    4300142: group_22
+    4300144: group_23
+    4300146: group_24
+    4300148: group_25
+    4300150: group_26
+    4300152: group_27
+    4300154: image_0
+    4300156: image_1
+    4300158: _3DGeom_1_Defintion
+    4300160: ID738
+    4300162: ID744
+    4300164: ID750
+    4300166: ID756
+    4300168: _3DGeom_2_Defintion
+    4300170: ID777
+    4300172: ID785
+    4300174: ID793
+    4300176: ID801
+    4300178: ID809
+    4300180: ID817
+    4300182: ID825
+    4300184: ID838
+    4300186: ID846
+    4300188: ID854
+    4300190: ID862
+    4300192: _3DGeom_1_Defintion
+    4300194: ID881
+    4300196: ID887
+    4300198: ID893
+    4300200: ID899
+    4300202: _3DGeom_2_Defintion
+    4300204: ID915
+    4300206: ID923
+    4300208: ID931
+    4300210: ID939
+    4300212: ID947
+    4300214: ID955
+    4300216: ID963
+    4300218: ID971
+    4300220: ID979
+    4300222: ID987
+    4300224: ID995
+    4300226: pinch_logo.dwg
+    4300228: ID1013
+    4300230: ID1021
+    4300232: ID1029
+    4300234: ID1037
+    4300236: ID1045
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

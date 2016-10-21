@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: a7078f462d79e524994f9a45e92cff98
+timeCreated: 1467899021
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: HondaCivic
+    100006: HondaCivic_Bonet
+    100008: HondaCivic_Dickey
+    100010: HondaCivic_L_BackDoor
+    100012: HondaCivic_L_Door
+    100014: HondaCivic_R_BackDoor
+    100016: HondaCivic_R_Door
+    100018: HondaCivicInnerMesh_MSH
+    100020: HondaCivicOuterMesh_MSH.029
+    100022: HondaCivicOuterMesh_MSH.048
+    100024: HondaCivicTyre_MSH
+    100026: Lamp
+    400000: Camera
+    400002: //RootNode
+    400004: HondaCivic
+    400006: HondaCivic_Bonet
+    400008: HondaCivic_Dickey
+    400010: HondaCivic_L_BackDoor
+    400012: HondaCivic_L_Door
+    400014: HondaCivic_R_BackDoor
+    400016: HondaCivic_R_Door
+    400018: HondaCivicInnerMesh_MSH
+    400020: HondaCivicOuterMesh_MSH.029
+    400022: HondaCivicOuterMesh_MSH.048
+    400024: HondaCivicTyre_MSH
+    400026: Lamp
+    2300000: HondaCivic_Bonet
+    2300002: HondaCivic_Dickey
+    2300004: HondaCivic_L_BackDoor
+    2300006: HondaCivic_L_Door
+    2300008: HondaCivic_R_BackDoor
+    2300010: HondaCivic_R_Door
+    2300012: HondaCivicInnerMesh_MSH
+    2300014: HondaCivicOuterMesh_MSH.029
+    2300016: HondaCivicOuterMesh_MSH.048
+    2300018: HondaCivicTyre_MSH
+    3300000: HondaCivic_Bonet
+    3300002: HondaCivic_Dickey
+    3300004: HondaCivic_L_BackDoor
+    3300006: HondaCivic_L_Door
+    3300008: HondaCivic_R_BackDoor
+    3300010: HondaCivic_R_Door
+    3300012: HondaCivicInnerMesh_MSH
+    3300014: HondaCivicOuterMesh_MSH.029
+    3300016: HondaCivicOuterMesh_MSH.048
+    3300018: HondaCivicTyre_MSH
+    4300000: HondaCivicOuterMesh_MSH.048
+    4300002: HondaCivicOuterMesh_MSH.029
+    4300004: HondaCivic_Dickey
+    4300006: HondaCivic_R_Door
+    4300008: HondaCivic_R_BackDoor
+    4300010: HondaCivic_Bonet
+    4300012: HondaCivic_L_Door
+    4300014: HondaCivicTyre_MSH
+    4300016: HondaCivicInnerMesh_MSH
+    4300018: HondaCivic_L_BackDoor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
